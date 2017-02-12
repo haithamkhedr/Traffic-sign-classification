@@ -1,6 +1,4 @@
-# Self-Driving Car Engineer Nanodegree
-# Deep Learning
-## Project: Build a Traffic Sign Recognition Program
+# Traffic sign classification using deep learning
 
 ### Overview
 
